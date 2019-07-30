@@ -1,4 +1,4 @@
-package com.dashlines.gateway.config;
+/*package com.dashlines.gateway.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;
@@ -19,4 +19,4 @@ public class AppSecurityConfig extends WebSecurityConfigurerAdapter {
 	protected void configure(HttpSecurity http) throws Exception {
 		http.authorizeRequests().anyRequest().authenticated().and().httpBasic();
 	}
-}
+}*/
